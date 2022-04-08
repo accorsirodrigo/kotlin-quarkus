@@ -1,0 +1,7 @@
+driver.notification-platform-sms
+driver.notification-platform-sms-dlq
+driver.notification-platform-email
+driver.notification-platform-email-dlq
+driver.notification-platform-push
+driver.notification-platform-push-dlq
+
